@@ -47,6 +47,18 @@ const PROJECTS = [
     desc: "A website for an Abacus mental maths education business.",
     url: "https://samathssolutions.netlify.app/",
   },
+  {
+    id: "02",
+    title: "Hennehs Group",
+    desc: "A website for an education and community organization.",
+    url: "https://hennehsgroup.netlify.app/",
+  },
+  {
+    id: "03",
+    title: "Somera Farms & Trading Ltd",
+    desc: "A website for a Ghanaian agro-processing company focused on oil palm and sustainable value addition.",
+    url: "https://somerafarms.netlify.app/",
+  },
 ];
 
 const NAV = ["Home", "About", "Skills", "Projects", "Contact"];
